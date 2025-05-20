@@ -7,11 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		F7B67CB32DDCEE5000817EAC /* FitnessApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitnessApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F7B67CB52DDCEE5000817EAC /* FitnessApp */ = {
+=======
+		F7B67CCD2DDCFE5200817EAC /* FitnessApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitnessApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F7B67CCF2DDCFE5200817EAC /* FitnessApp */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FitnessApp;
 			sourceTree = "<group>";
@@ -19,7 +27,11 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+<<<<<<< HEAD
 		F7B67CB02DDCEE5000817EAC /* Frameworks */ = {
+=======
+		F7B67CCA2DDCFE5200817EAC /* Frameworks */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,6 +41,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD
 		F7B67CAA2DDCEE5000817EAC = {
 			isa = PBXGroup;
 			children = (
@@ -41,6 +54,20 @@
 			isa = PBXGroup;
 			children = (
 				F7B67CB32DDCEE5000817EAC /* FitnessApp.app */,
+=======
+		F7B67CC42DDCFE5200817EAC = {
+			isa = PBXGroup;
+			children = (
+				F7B67CCF2DDCFE5200817EAC /* FitnessApp */,
+				F7B67CCE2DDCFE5200817EAC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F7B67CCE2DDCFE5200817EAC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F7B67CCD2DDCFE5200817EAC /* FitnessApp.app */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,6 +75,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+<<<<<<< HEAD
 		F7B67CB22DDCEE5000817EAC /* FitnessApp */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F7B67CC12DDCEE6100817EAC /* Build configuration list for PBXNativeTarget "FitnessApp" */;
@@ -55,43 +83,73 @@
 				F7B67CAF2DDCEE5000817EAC /* Sources */,
 				F7B67CB02DDCEE5000817EAC /* Frameworks */,
 				F7B67CB12DDCEE5000817EAC /* Resources */,
+=======
+		F7B67CCC2DDCFE5200817EAC /* FitnessApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F7B67CDB2DDCFE5500817EAC /* Build configuration list for PBXNativeTarget "FitnessApp" */;
+			buildPhases = (
+				F7B67CC92DDCFE5200817EAC /* Sources */,
+				F7B67CCA2DDCFE5200817EAC /* Frameworks */,
+				F7B67CCB2DDCFE5200817EAC /* Resources */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+<<<<<<< HEAD
 				F7B67CB52DDCEE5000817EAC /* FitnessApp */,
+=======
+				F7B67CCF2DDCFE5200817EAC /* FitnessApp */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 			name = FitnessApp;
 			packageProductDependencies = (
 			);
 			productName = FitnessApp;
+<<<<<<< HEAD
 			productReference = F7B67CB32DDCEE5000817EAC /* FitnessApp.app */;
+=======
+			productReference = F7B67CCD2DDCFE5200817EAC /* FitnessApp.app */;
+>>>>>>> a2c7e17 (Initial Commit)
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
+<<<<<<< HEAD
 		F7B67CAB2DDCEE5000817EAC /* Project object */ = {
+=======
+		F7B67CC52DDCFE5200817EAC /* Project object */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
+<<<<<<< HEAD
 					F7B67CB22DDCEE5000817EAC = {
+=======
+					F7B67CCC2DDCFE5200817EAC = {
+>>>>>>> a2c7e17 (Initial Commit)
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
+<<<<<<< HEAD
 			buildConfigurationList = F7B67CAE2DDCEE5000817EAC /* Build configuration list for PBXProject "FitnessApp" */;
+=======
+			buildConfigurationList = F7B67CC82DDCFE5200817EAC /* Build configuration list for PBXProject "FitnessApp" */;
+>>>>>>> a2c7e17 (Initial Commit)
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
+<<<<<<< HEAD
 			mainGroup = F7B67CAA2DDCEE5000817EAC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
@@ -100,12 +158,26 @@
 			projectRoot = "";
 			targets = (
 				F7B67CB22DDCEE5000817EAC /* FitnessApp */,
+=======
+			mainGroup = F7B67CC42DDCFE5200817EAC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F7B67CCE2DDCFE5200817EAC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F7B67CCC2DDCFE5200817EAC /* FitnessApp */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+<<<<<<< HEAD
 		F7B67CB12DDCEE5000817EAC /* Resources */ = {
+=======
+		F7B67CCB2DDCFE5200817EAC /* Resources */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +187,11 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+<<<<<<< HEAD
 		F7B67CAF2DDCEE5000817EAC /* Sources */ = {
+=======
+		F7B67CC92DDCFE5200817EAC /* Sources */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +201,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+<<<<<<< HEAD
 		F7B67CBF2DDCEE6100817EAC /* Debug */ = {
+=======
+		F7B67CD92DDCFE5500817EAC /* Debug */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +268,11 @@
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		F7B67CC02DDCEE6100817EAC /* Release */ = {
+=======
+		F7B67CDA2DDCFE5500817EAC /* Release */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +328,11 @@
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		F7B67CC22DDCEE6100817EAC /* Debug */ = {
+=======
+		F7B67CDC2DDCFE5500817EAC /* Debug */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -252,6 +340,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FitnessApp/Preview Content\"";
+<<<<<<< HEAD
+=======
+				DEVELOPMENT_TEAM = N8L5F3M6C5;
+>>>>>>> a2c7e17 (Initial Commit)
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -272,7 +364,11 @@
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		F7B67CC32DDCEE6100817EAC /* Release */ = {
+=======
+		F7B67CDD2DDCFE5500817EAC /* Release */ = {
+>>>>>>> a2c7e17 (Initial Commit)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -280,6 +376,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FitnessApp/Preview Content\"";
+<<<<<<< HEAD
+=======
+				DEVELOPMENT_TEAM = N8L5F3M6C5;
+>>>>>>> a2c7e17 (Initial Commit)
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -303,25 +403,45 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+<<<<<<< HEAD
 		F7B67CAE2DDCEE5000817EAC /* Build configuration list for PBXProject "FitnessApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7B67CBF2DDCEE6100817EAC /* Debug */,
 				F7B67CC02DDCEE6100817EAC /* Release */,
+=======
+		F7B67CC82DDCFE5200817EAC /* Build configuration list for PBXProject "FitnessApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7B67CD92DDCFE5500817EAC /* Debug */,
+				F7B67CDA2DDCFE5500817EAC /* Release */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+<<<<<<< HEAD
 		F7B67CC12DDCEE6100817EAC /* Build configuration list for PBXNativeTarget "FitnessApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7B67CC22DDCEE6100817EAC /* Debug */,
 				F7B67CC32DDCEE6100817EAC /* Release */,
+=======
+		F7B67CDB2DDCFE5500817EAC /* Build configuration list for PBXNativeTarget "FitnessApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7B67CDC2DDCFE5500817EAC /* Debug */,
+				F7B67CDD2DDCFE5500817EAC /* Release */,
+>>>>>>> a2c7e17 (Initial Commit)
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
+<<<<<<< HEAD
 	rootObject = F7B67CAB2DDCEE5000817EAC /* Project object */;
+=======
+	rootObject = F7B67CC52DDCFE5200817EAC /* Project object */;
+>>>>>>> a2c7e17 (Initial Commit)
 }
